@@ -1,0 +1,46 @@
+Javítókulcs
+-----
+ Az első médiakérdés a min-width értéket használja, és 772 px-nél váltja ki.  
+
+10 pont 
+Yes
+0 pont
+No
+
+
+-----
+Az első médiakérdésben a div szelektor 45vw szélességűre van beállítva, és a display inline-block funkciót használja. 
+
+10 pont
+Yes
+0 pont
+No
+
+------
+Az első médiakérdésben az img szelektor 30vh max-height értékre van beállítva  
+
+0 pont
+ Az img szelektor nem használja a nézetablak magasságát (vh) és nem használja a max-height értéket.
+
+5 pont
+ a max-height nem használatos, vagy a vh nem használatos.
+
+10 pont
+ Az img szelektor helyesen van stilizálva.
+
+
+---------
+ A második médiakérdés a min-width értéket használja, és 998 px-nél váltja ki.  
+
+10 pont
+Yes
+0 pont
+No
+
+-------
+ A második médiakérdésben a div szelektor 30vw szélességűre van beállítva.  
+
+10 pont
+Yes
+0 pont
+No
